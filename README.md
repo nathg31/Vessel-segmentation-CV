@@ -18,3 +18,5 @@ The data - images and annotations - are extracted from the IOSTAR database of th
 The notion of multiscale is essential for this type of algorithm, as vessel thickness varies.
 Since the vascular network is generally connected, the use of connected operators seems relevant.
 The evaluation function provided in the Python script measures two metrics, Precision and Recall. The skeletonization plays a role in this evaluation function by thinning the segmented vessels, making it easier to compare with the ground truth.
+
+![Flowchart of the process](image/flowchart.png)
