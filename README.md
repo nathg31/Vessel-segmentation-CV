@@ -5,7 +5,7 @@ Scanning laser ophthalmoscopy (SLO) is a retinal imaging modality that allows fo
 <table>
   <tr>
     <td><img src="images_IOSTAR/GT_01.png"></td>
-    <td><img src="images_IOSTAR/star01_OSC.png"></td>
+    <td><img src="images_IOSTAR/star01_OSC.jpg"></td>
   </tr>
 </table>
 
